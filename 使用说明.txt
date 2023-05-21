@@ -1,0 +1,5 @@
+1.需要将wechatjobconf放到D盘中
+2.wechatjobconf 中config.properties为配置文件，可动态修改对应的需要发送的人、群（有备注的话直接填写备注名称即可）
+3.对应的图片 必须 png结尾，并且名称需要定义为 job1、job2、job3、job4等以此类推，图片放到wechatjobconf文件夹中即可
+
+以上配置完成后，在电脑有jvm环境的情况下，直接运行 bat文件即可
